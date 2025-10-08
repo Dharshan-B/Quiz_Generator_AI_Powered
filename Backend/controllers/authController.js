@@ -1,3 +1,4 @@
+// controllers/authController
 import User from "../models/user.js";
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
@@ -12,7 +13,14 @@ export const signup = async (req, res) => {
     const user = new User({ username, email, password: hashedPassword, role });
     await user.save();
 
-    res.status(201).json({ message: "Signup successful" });
+    const token = jwt.sign({ id: user._id, role: user.role }, process.env.JWT_SECRET, { expiresIn: "1h" });
+
+    res.status(201).json({
+      message: "Signup successful",
+      username: user.username,
+      role: user.role,
+      token
+    });
   } catch (err) {
     res.status(500).json({ message: err.message });
   }
@@ -28,7 +36,12 @@ export const login = async (req, res) => {
     if (!isPasswordCorrect) return res.status(400).json({ message: "Invalid credentials" });
 
     const token = jwt.sign({ id: user._id, role: user.role }, process.env.JWT_SECRET, { expiresIn: "1h" });
-    res.json({ token });
+
+    res.json({
+      username: user.username,
+      role: user.role,
+      token
+    });
   } catch (err) {
     res.status(500).json({ message: err.message });
   }

@@ -1,0 +1,400 @@
+question_text,difficulty
+"What is Python?",easy
+"Explain Python basics.",easy
+"Who created C programming?",easy
+"Define variable in Java.",easy
+"Translate 'Bonjour' to English.",easy
+"What is 2 + 2?",easy
+"தமிழில் 'மரம்' என்றால் என்ன?",easy
+"Translate 'Hola' to English.",easy
+"Explain polymorphism in OOP.",medium
+"What is an abstract class?",medium
+"Explain supervised learning.",medium
+"Difference between list and tuple in Python.",medium
+"What is backpropagation in neural networks?",hard
+"Explain gradient descent algorithm.",hard
+"Describe convolution operation in CNN.",hard
+"How does reinforcement learning work?",hard
+"Comment fonctionne un réseau de neurones?",hard
+"Explain overfitting in machine learning.",hard
+"Describe Big-O notation.",hard
+"What is transfer learning?",hard
+"Define regularization in ML.",medium
+"Explain Naive Bayes classifier.",medium
+"Difference between precision and recall.",medium
+"Explain data preprocessing steps.",medium
+"How to handle missing values?",medium
+"What is overfitting?",medium
+"How does cross-validation work?",medium
+question_text,difficulty
+"What is Python?",easy
+"Explain Python basics.",easy
+"Who created C programming?",easy
+"Define variable in Java.",easy
+"Translate 'Bonjour' to English.",easy
+"What is 2 + 2?",easy
+"தமிழில் 'மரம்' என்றால் என்ன?",easy
+"Translate 'Hola' to English.",easy
+"Explain polymorphism in OOP.",medium
+"What is an abstract class?",medium
+"Explain supervised learning.",medium
+"Difference between list and tuple in Python.",medium
+"Wie funktioniert eine Schleife in Python?",medium
+"क्या आप मशीन लर्निंग समझा सकते हैं?",medium
+"¿Qué es un bucle for?",medium
+"What is backpropagation in neural networks?",hard
+"Explain gradient descent algorithm.",hard
+"Describe convolution operation in CNN.",hard
+"How does reinforcement learning work?",hard
+"Comment fonctionne un réseau de neurones?",hard
+"Explain overfitting in machine learning.",hard
+"Describe Big-O notation.",hard
+"What is transfer learning?",hard
+"Define regularization in ML.",medium
+"Explain Naive Bayes classifier.",medium
+"Difference between precision and recall.",medium
+"Explain data preprocessing steps.",medium
+"How to handle missing values?",medium
+"What is overfitting?",medium
+"How does cross-validation work?",medium
+question_text,difficulty
+"What is Python?",easy
+"Explain Python basics.",easy
+"Who created C programming?",easy
+"Define variable in Java.",easy
+"Translate 'Bonjour' to English.",easy
+"What is 2 + 2?",easy
+"தமிழில் 'மரம்' என்றால் என்ன?",easy
+"Translate 'Hola' to English.",easy
+"Explain polymorphism in OOP.",medium
+"What is an abstract class?",medium
+"Explain supervised learning.",medium
+"Difference between list and tuple in Python.",medium
+"Wie funktioniert eine Schleife in Python?",medium
+"क्या आप मशीन लर्निंग समझा सकते हैं?",medium
+"¿Qué es un bucle for?",medium
+"What is backpropagation in neural networks?",hard
+"Explain gradient descent algorithm.",hard
+"Describe convolution operation in CNN.",hard
+"How does reinforcement learning work?",hard
+"Comment fonctionne un réseau de neurones?",hard
+"Explain overfitting in machine learning.",hard
+"Describe Big-O notation.",hard
+"What is transfer learning?",hard
+"Define regularization in ML.",medium
+"Explain Naive Bayes classifier.",medium
+"Difference between precision and recall.",medium
+"Explain data preprocessing steps.",medium
+"How to handle missing values?",medium
+"What is overfitting?",medium
+"How does cross-validation work?",medium
+question_text,difficulty
+"What is Python?",easy
+"Explain Python basics.",easy
+"Who created C programming?",easy
+"Define variable in Java.",easy
+"Translate 'Bonjour' to English.",easy
+"What is 2 + 2?",easy
+"தமிழில் 'மரம்' என்றால் என்ன?",easy
+"Translate 'Hola' to English.",easy
+"Explain polymorphism in OOP.",medium
+"What is an abstract class?",medium
+"Explain supervised learning.",medium
+"Difference between list and tuple in Python.",medium
+"Wie funktioniert eine Schleife in Python?",medium
+"क्या आप मशीन लर्निंग समझा सकते हैं?",medium
+"¿Qué es un bucle for?",medium
+"What is backpropagation in neural networks?",hard
+"Explain gradient descent algorithm.",hard
+"Describe convolution operation in CNN.",hard
+"How does reinforcement learning work?",hard
+"Comment fonctionne un réseau de neurones?",hard
+"Explain overfitting in machine learning.",hard
+"Describe Big-O notation.",hard
+"What is transfer learning?",hard
+"Define regularization in ML.",medium
+"Explain Naive Bayes classifier.",medium
+"Difference between precision and recall.",medium
+"Explain data preprocessing steps.",medium
+"How to handle missing values?",medium
+"What is overfitting?",medium
+"How does cross-validation work?",medium
+question_text,difficulty
+"What is Python?",easy
+"Explain Python basics.",easy
+"Who created C programming?",easy
+"Define variable in Java.",easy
+"Translate 'Bonjour' to English.",easy
+"What is 2 + 2?",easy
+"தமிழில் 'மரம்' என்றால் என்ன?",easy
+"Translate 'Hola' to English.",easy
+"Explain polymorphism in OOP.",medium
+"What is an abstract class?",medium
+"Explain supervised learning.",medium
+"Difference between list and tuple in Python.",medium
+"Wie funktioniert eine Schleife in Python?",medium
+"क्या आप मशीन लर्निंग समझा सकते हैं?",medium
+"¿Qué es un bucle for?",medium
+"What is backpropagation in neural networks?",hard
+"Explain gradient descent algorithm.",hard
+"Describe convolution operation in CNN.",hard
+"How does reinforcement learning work?",hard
+"Comment fonctionne un réseau de neurones?",hard
+"Explain overfitting in machine learning.",hard
+"Describe Big-O notation.",hard
+"What is transfer learning?",hard
+"Define regularization in ML.",medium
+"Explain Naive Bayes classifier.",medium
+"Difference between precision and recall.",medium
+"Explain data preprocessing steps.",medium
+"How to handle missing values?",medium
+"What is overfitting?",medium
+"How does cross-validation work?",medium
+question_text,difficulty
+"What is Python?",easy
+"Explain Python basics.",easy
+"Who created C programming?",easy
+"Define variable in Java.",easy
+"Translate 'Bonjour' to English.",easy
+"What is 2 + 2?",easy
+"தமிழில் 'மரம்' என்றால் என்ன?",easy
+"Translate 'Hola' to English.",easy
+"Explain polymorphism in OOP.",medium
+"What is an abstract class?",medium
+"Explain supervised learning.",medium
+"Difference between list and tuple in Python.",medium
+"Wie funktioniert eine Schleife in Python?",medium
+"क्या आप मशीन लर्निंग समझा सकते हैं?",medium
+"¿Qué es un bucle for?",medium
+"What is backpropagation in neural networks?",hard
+"Explain gradient descent algorithm.",hard
+"Describe convolution operation in CNN.",hard
+"How does reinforcement learning work?",hard
+"Comment fonctionne un réseau de neurones?",hard
+"Explain overfitting in machine learning.",hard
+"Describe Big-O notation.",hard
+"What is transfer learning?",hard
+"Define regularization in ML.",medium
+"Explain Naive Bayes classifier.",medium
+"Difference between precision and recall.",medium
+"Explain data preprocessing steps.",medium
+"How to handle missing values?",medium
+"What is overfitting?",medium
+"How does cross-validation work?",medium
+question_text,difficulty
+"What is Python?",easy
+"Explain Python basics.",easy
+"Who created C programming?",easy
+"Define variable in Java.",easy
+"Translate 'Bonjour' to English.",easy
+"What is 2 + 2?",easy
+"தமிழில் 'மரம்' என்றால் என்ன?",easy
+"Translate 'Hola' to English.",easy
+"Explain polymorphism in OOP.",medium
+"What is an abstract class?",medium
+"Explain supervised learning.",medium
+"Difference between list and tuple in Python.",medium
+"Wie funktioniert eine Schleife in Python?",medium
+"क्या आप मशीन लर्निंग समझा सकते हैं?",medium
+"¿Qué es un bucle for?",medium
+"What is backpropagation in neural networks?",hard
+"Explain gradient descent algorithm.",hard
+"Describe convolution operation in CNN.",hard
+"How does reinforcement learning work?",hard
+"Comment fonctionne un réseau de neurones?",hard
+"Explain overfitting in machine learning.",hard
+"Describe Big-O notation.",hard
+"What is transfer learning?",hard
+"Define regularization in ML.",medium
+"Explain Naive Bayes classifier.",medium
+"Difference between precision and recall.",medium
+"Explain data preprocessing steps.",medium
+"How to handle missing values?",medium
+"What is overfitting?",medium
+"How does cross-validation work?",medium
+question_text,difficulty
+"What is Python?",easy
+"Explain Python basics.",easy
+"Who created C programming?",easy
+"Define variable in Java.",easy
+"Translate 'Bonjour' to English.",easy
+"What is 2 + 2?",easy
+"தமிழில் 'மரம்' என்றால் என்ன?",easy
+"Translate 'Hola' to English.",easy
+"Explain polymorphism in OOP.",medium
+"What is an abstract class?",medium
+"Explain supervised learning.",medium
+"Difference between list and tuple in Python.",medium
+"Wie funktioniert eine Schleife in Python?",medium
+"क्या आप मशीन लर्निंग समझा सकते हैं?",medium
+"¿Qué es un bucle for?",medium
+"What is backpropagation in neural networks?",hard
+"Explain gradient descent algorithm.",hard
+"Describe convolution operation in CNN.",hard
+"How does reinforcement learning work?",hard
+"Comment fonctionne un réseau de neurones?",hard
+"Explain overfitting in machine learning.",hard
+"Describe Big-O notation.",hard
+"What is transfer learning?",hard
+"Define regularization in ML.",medium
+"Explain Naive Bayes classifier.",medium
+"Difference between precision and recall.",medium
+"Explain data preprocessing steps.",medium
+"How to handle missing values?",medium
+"What is overfitting?",medium
+"How does cross-validation work?",medium
+question_text,difficulty
+"What is Python?",easy
+"Explain Python basics.",easy
+"Who created C programming?",easy
+"Define variable in Java.",easy
+"Translate 'Bonjour' to English.",easy
+"What is 2 + 2?",easy
+"தமிழில் 'மரம்' என்றால் என்ன?",easy
+"Translate 'Hola' to English.",easy
+"Explain polymorphism in OOP.",medium
+"What is an abstract class?",medium
+"Explain supervised learning.",medium
+"Difference between list and tuple in Python.",medium
+"Wie funktioniert eine Schleife in Python?",medium
+"क्या आप मशीन लर्निंग समझा सकते हैं?",medium
+"¿Qué es un bucle for?",medium
+"What is backpropagation in neural networks?",hard
+"Explain gradient descent algorithm.",hard
+"Describe convolution operation in CNN.",hard
+"How does reinforcement learning work?",hard
+"Comment fonctionne un réseau de neurones?",hard
+"Explain overfitting in machine learning.",hard
+"Describe Big-O notation.",hard
+"What is transfer learning?",hard
+"Define regularization in ML.",medium
+"Explain Naive Bayes classifier.",medium
+"Difference between precision and recall.",medium
+"Explain data preprocessing steps.",medium
+"How to handle missing values?",medium
+"What is overfitting?",medium
+"How does cross-validation work?",medium
+question_text,difficulty
+"What is Python?",easy
+"Explain Python basics.",easy
+"Who created C programming?",easy
+"Define variable in Java.",easy
+"Translate 'Bonjour' to English.",easy
+"What is 2 + 2?",easy
+"தமிழில் 'மரம்' என்றால் என்ன?",easy
+"Translate 'Hola' to English.",easy
+"Explain polymorphism in OOP.",medium
+"What is an abstract class?",medium
+"Explain supervised learning.",medium
+"Difference between list and tuple in Python.",medium
+"Wie funktioniert eine Schleife in Python?",medium
+"क्या आप मशीन लर्निंग समझा सकते हैं?",medium
+"¿Qué es un bucle for?",medium
+"What is backpropagation in neural networks?",hard
+"Explain gradient descent algorithm.",hard
+"Describe convolution operation in CNN.",hard
+"How does reinforcement learning work?",hard
+"Comment fonctionne un réseau de neurones?",hard
+"Explain overfitting in machine learning.",hard
+"Describe Big-O notation.",hard
+"What is transfer learning?",hard
+"Define regularization in ML.",medium
+"Explain Naive Bayes classifier.",medium
+"Difference between precision and recall.",medium
+"Explain data preprocessing steps.",medium
+"How to handle missing values?",medium
+"What is overfitting?",medium
+"How does cross-validation work?",medium
+question_text,difficulty
+"What is Python?",easy
+"Explain Python basics.",easy
+"Who created C programming?",easy
+"Define variable in Java.",easy
+"Translate 'Bonjour' to English.",easy
+"What is 2 + 2?",easy
+"தமிழில் 'மரம்' என்றால் என்ன?",easy
+"Translate 'Hola' to English.",easy
+"Explain polymorphism in OOP.",medium
+"What is an abstract class?",medium
+"Explain supervised learning.",medium
+"Difference between list and tuple in Python.",medium
+"Wie funktioniert eine Schleife in Python?",medium
+"क्या आप मशीन लर्निंग समझा सकते हैं?",medium
+"¿Qué es un bucle for?",medium
+"What is backpropagation in neural networks?",hard
+"Explain gradient descent algorithm.",hard
+"Describe convolution operation in CNN.",hard
+"How does reinforcement learning work?",hard
+"Comment fonctionne un réseau de neurones?",hard
+"Explain overfitting in machine learning.",hard
+"Describe Big-O notation.",hard
+"What is transfer learning?",hard
+"Define regularization in ML.",medium
+"Explain Naive Bayes classifier.",medium
+"Difference between precision and recall.",medium
+"Explain data preprocessing steps.",medium
+"How to handle missing values?",medium
+"What is overfitting?",medium
+"How does cross-validation work?",medium
+question_text,difficulty
+"What is Python?",easy
+"Explain Python basics.",easy
+"Who created C programming?",easy
+"Define variable in Java.",easy
+"Translate 'Bonjour' to English.",easy
+"What is 2 + 2?",easy
+"தமிழில் 'மரம்' என்றால் என்ன?",easy
+"Translate 'Hola' to English.",easy
+"Explain polymorphism in OOP.",medium
+"What is an abstract class?",medium
+"Explain supervised learning.",medium
+"Difference between list and tuple in Python.",medium
+"Wie funktioniert eine Schleife in Python?",medium
+"क्या आप मशीन लर्निंग समझा सकते हैं?",medium
+"¿Qué es un bucle for?",medium
+"What is backpropagation in neural networks?",hard
+"Explain gradient descent algorithm.",hard
+"Describe convolution operation in CNN.",hard
+"How does reinforcement learning work?",hard
+"Comment fonctionne un réseau de neurones?",hard
+"Explain overfitting in machine learning.",hard
+"Describe Big-O notation.",hard
+"What is transfer learning?",hard
+"Define regularization in ML.",medium
+"Explain Naive Bayes classifier.",medium
+"Difference between precision and recall.",medium
+"Explain data preprocessing steps.",medium
+"How to handle missing values?",medium
+"What is overfitting?",medium
+"How does cross-validation work?",medium
+question_text,difficulty
+"What is Python?",easy
+"Explain Python basics.",easy
+"Who created C programming?",easy
+"Define variable in Java.",easy
+"Translate 'Bonjour' to English.",easy
+"What is 2 + 2?",easy
+"தமிழில் 'மரம்' என்றால் என்ன?",easy
+"Translate 'Hola' to English.",easy
+"Explain polymorphism in OOP.",medium
+"What is an abstract class?",medium
+"Explain supervised learning.",medium
+"Difference between list and tuple in Python.",medium
+"Wie funktioniert eine Schleife in Python?",medium
+"क्या आप मशीन लर्निंग समझा सकते हैं?",medium
+"¿Qué es un bucle for?",medium
+"What is backpropagation in neural networks?",hard
+"Explain gradient descent algorithm.",hard
+"Describe convolution operation in CNN.",hard
+"How does reinforcement learning work?",hard
+"Comment fonctionne un réseau de neurones?",hard
+"Explain overfitting in machine learning.",hard
+"Describe Big-O notation.",hard
+"What is transfer learning?",hard
+"Define regularization in ML.",medium
+"Explain Naive Bayes classifier.",medium
+"Difference between precision and recall.",medium
+"Explain data preprocessing steps.",medium
+"How to handle missing values?",medium
+"What is overfitting?",medium
+"How does cross-validation work?",medium

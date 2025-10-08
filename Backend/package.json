@@ -7,11 +7,22 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "@google/genai": "^1.22.0",
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.12.2",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
     "jsonwebtoken": "^9.0.0",
-    "mongoose": "^7.3.2"
-  }
+    "mongoose": "^7.8.7",
+    "multer": "^2.0.2",
+    "openai": "^6.2.0",
+    "pdf-parse": "^2.2.1",
+    "pdfjs-dist": "^5.4.296"
+  },
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
